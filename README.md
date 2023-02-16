@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Minor Project**
 
-- 🌱 I’m currently learning **Mysql,ML & Data Structure**
+- 🌱 I’m currently learning **Mysql & Data Structure**
 
 - 💬 Ask me about **Python**
 
