@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Piyushi Patidar</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<h3 align="center">A passionate python developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushi2227&label=Profile%20views&color=0e75b6&style=flat" alt="piyushi692" /> </p>
 
-- 🔭 I’m currently working on **Minor Project**
+- 🔭 I’m currently working on **Major Project**
 
-- 🌱 I’m currently learning **Mysql & Data Structure**
+- 🌱 I’m currently learning **Django and Django rest framework**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **mysql**
 
 - 📫 How to reach me **patidarpiyushi2211@gmail.com**
 
